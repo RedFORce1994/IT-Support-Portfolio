@@ -33,7 +33,7 @@ Environment includes:
 
 | Lab | Topic |
 |----|----|
-| Lab 1 | Installing VirtualBox & Server 2022 |
+| Lab 1 | [Installing VirtualBox & Server 2022](https://github.com/RedFORce1994/Installing-VirtualBox-Server-2022/tree/main)
 | Lab 2 | Installing Active Directory |
 | Lab 3 | Active Directory User Management |
 | Lab 4 | Domain Joining Workstations |
