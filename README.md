@@ -36,7 +36,7 @@ Environment includes:
 | Lab 1 | [Installing VirtualBox & Server 2022](https://github.com/RedFORce1994/Installing-VirtualBox-Server-2022/tree/main)
 | Lab 2 | [Installing Active Directory](https://github.com/RedFORce1994/Installing-Active-Directory)
 | Lab 3 | [Active Directory User Management](https://github.com/RedFORce1994/Creating-Active-Directory-Accounts-with-Command-Prompt)
-| Lab 4 | Domain Joining Workstations |
+| Lab 4 | [Domain Joining Workstations](https://github.com/RedFORce1994/Joining-Windows-10-PCs-to-a-Domain-RSAT-Helpdesk-Server-Manager-Guide/tree/main)
 | Lab 5 | Group Policy & RSOP |
 | Lab 6 | Troubleshooting Domain Issues |
 | Lab 7 | Security Groups & Drive Mapping |
