@@ -37,7 +37,7 @@ Environment includes:
 | Lab 2 | [Installing Active Directory](https://github.com/RedFORce1994/Installing-Active-Directory)
 | Lab 3 | [Active Directory User Management](https://github.com/RedFORce1994/Creating-Active-Directory-Accounts-with-Command-Prompt)
 | Lab 4 | [Domain Joining Workstations](https://github.com/RedFORce1994/Joining-Windows-10-PCs-to-a-Domain-RSAT-Helpdesk-Server-Manager-Guide/tree/main)
-| Lab 5 | Group Policy & RSOP |
+| Lab 5 | [Group Policy & RSOP](https://github.com/RedFORce1994/Windows-10-Domain-Join-Group-Policy-Management-RSOP-Reporting)
 | Lab 6 | Troubleshooting Domain Issues |
 | Lab 7 | Security Groups & Drive Mapping |
 | Lab 8 | Remote Administration |
