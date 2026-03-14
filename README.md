@@ -39,7 +39,7 @@ Environment includes:
 | Lab 4 | [Domain Joining Workstations](https://github.com/RedFORce1994/Joining-Windows-10-PCs-to-a-Domain-RSAT-Helpdesk-Server-Manager-Guide/tree/main)
 | Lab 5 | [Group Policy & RSOP](https://github.com/RedFORce1994/Windows-10-Domain-Join-Group-Policy-Management-RSOP-Reporting)
 | Lab 6 | [Troubleshooting Domain Issues](https://github.com/RedFORce1994/Troubleshooting-AD-Issues-CMD-Commands-PC-Offline)
-| Lab 7 | Security Groups & Drive Mapping |
+| Lab 7 | [Security Groups & Drive Mapping](https://github.com/RedFORce1994/Managing-Security-Groups-Mapped-Drives-Personal-Drive-Configuration/tree/main)
 | Lab 8 | Remote Administration |
 | Lab 9 | Software Deployment |
 | Lab 10 | Ticketing System Simulation |
