@@ -26,7 +26,7 @@ Environment includes:
 - Helpdesk Troubleshooting
 - Remote Administration
 - File Shares and NTFS Permissions
-- Software Deployment
+- Using PDQ to Install and Deploy Software
 - Ticketing System Workflow
 
 ## Lab Series
