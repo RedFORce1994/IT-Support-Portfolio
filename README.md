@@ -41,5 +41,5 @@ Environment includes:
 | Lab 6 | [Troubleshooting Domain Issues](https://github.com/RedFORce1994/Troubleshooting-AD-Issues-CMD-Commands-PC-Offline)
 | Lab 7 | [Security Groups & Drive Mapping](https://github.com/RedFORce1994/Managing-Security-Groups-Mapped-Drives-Personal-Drive-Configuration/tree/main)
 | Lab 8 | [Remote Administration](https://github.com/RedFORce1994/Remote-Administration/blob/main/README.md)
-| Lab 9 | Task Manager, Group Policy, RSOP, and Disable Logoff |
-| Lab 10 | Ticketing System Simulation |
+| Lab 9 | [Task Manager, Group Policy, RSOP, and Disable Logoff](https://github.com/RedFORce1994/Task-Manager-Group-Policy-RSOP-and-Disable-Logoff/blob/main/README.md)
+| Lab 10 | Using PDQ to Install and Deploy Software
