@@ -42,3 +42,14 @@ Environment includes:
 | Lab 8 | [Remote Administration](https://github.com/RedFORce1994/Remote-Administration/blob/main/README.md)
 | Lab 9 | [Task Manager, Group Policy, RSOP, and Disable Logoff](https://github.com/RedFORce1994/Task-Manager-Group-Policy-RSOP-and-Disable-Logoff/blob/main/README.md)
 | Lab 10 | [Printer Installation and File Permissions on Server 2022](https://github.com/RedFORce1994/Printer-Installation-and-File-Permissions-on-Server-2022)
+
+
+## Navigation
+
+Each laboratory is comprehensively documented with the following sections:
+
+- Overview
+- Objectives
+- Documentation
+
+Please click on the links above to explore the details of each laboratory, or navigate through the repository to review the configuration and results of each experiment.
