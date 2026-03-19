@@ -42,7 +42,7 @@ Environment includes:
 | Lab 8 | [Remote Administration](https://github.com/RedFORce1994/Remote-Administration/blob/main/README.md)
 | Lab 9 | [Task Manager, Group Policy, RSOP, and Disable Logoff](https://github.com/RedFORce1994/Task-Manager-Group-Policy-RSOP-and-Disable-Logoff/blob/main/README.md)
 | Lab 10 | [Printer Installation and File Permissions on Server 2022](https://github.com/RedFORce1994/Printer-Installation-and-File-Permissions-on-Server-2022)
-| Lab 11 | [Comprehending Tickets with Spiceworks]
+| Lab 11 | [Comprehending Tickets with Spiceworks](https://github.com/RedFORce1994/Comprehending-Tickets-with-Spiceworks/blob/main/README.md)
 
 
 
