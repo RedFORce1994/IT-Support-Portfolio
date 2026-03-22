@@ -45,6 +45,7 @@ Environment includes:
 | Lab 11 | [PDQ Inventory: Hardware and Software Reporting](https://github.com/RedFORce1994/PDQ-Inventory-Hardware-and-Software-Reporting/blob/main/README.md)
 | Lab 12 | [Printer Installation and File Permissions on Server 2022](https://github.com/RedFORce1994/Printer-Installation-and-File-Permissions-on-Server-2022)
 | Lab 13 | [Comprehending Tickets with Spiceworks](https://github.com/RedFORce1994/Comprehending-Tickets-with-Spiceworks/blob/main/README.md)
+| Lab 14 | [Delegated-Control-and-Account-Lockout-Management](https://github.com/RedFORce1994/Delegated-Control-and-Account-Lockout-Management/blob/main/README.md)
 
 
 
